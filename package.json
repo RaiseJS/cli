@@ -1,5 +1,5 @@
 {
-  "name": "raisejs",
+  "name": "RaiseJS-Cli",
   "version": "0.5.0",
   "description": "Raise your frontend projects to the next level! Initialize a clean folder structure with preconfigured compilers to use with your favourite languages - no oversized libraries included!",
   "keywords": [
